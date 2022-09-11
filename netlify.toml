@@ -1,5 +1,5 @@
 [build]
-  publissh = "dist/prelaunch-page"
+  publish = "dist/prelaunch-page"
   command = "ng build"
   functions = "./netlify/functions"
 [[redirects]]
